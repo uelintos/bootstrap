@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+.container{
+    padding-top: 40px;
+    display: inherit;
+}
+
+
+input[type="number"]{
+    -moz-appearance: textfield;
+}
+#email{
+    margin-bottom: 10px;
+}
